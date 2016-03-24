@@ -1,0 +1,14 @@
+layout_spectrum: 0.2204514
+typography_spectrum: 0.3737616
+color:
+  saturation: 0.9216648
+  lightness: 0.176813
+  brandStrength: 0.8401088
+  rhythmicContrast: 0.1403189
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: HtBaNinja
